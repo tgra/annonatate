@@ -1,0 +1,52 @@
+---
+canvas: "https://rct.resourcespace.com/iiif/image/779/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Tower of Pisa",
+            "purpose": "classifying",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2021-10-04T22:54:54.861Z",
+            "modified": "2021-10-04T22:55:07.931Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "tower of pisa",
+            "purpose": "tagging",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2021-10-04T22:55:11.702Z",
+            "modified": "2021-10-04T22:55:20.092Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "italy",
+            "purpose": "tagging",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2021-10-04T22:55:29.042Z",
+            "modified": "2021-10-04T22:55:32.127Z"
+        }
+    ],
+    "target": {
+        "source": "https://rct.resourcespace.com/iiif/image/779/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:758.4556884765625,405.20208740234375,754.3502197265625,1988.4138793945312"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "6d891fdc-a412-4fcb-b3fd-cb7af668ff62.json"
+}
