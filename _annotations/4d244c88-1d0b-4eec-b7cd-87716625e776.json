@@ -1,0 +1,41 @@
+---
+canvas: "https://rct.resourcespace.com/iiif/image/799/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "dogs",
+            "purpose": "classifying",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2021-10-04T22:52:34.810Z",
+            "modified": "2021-10-04T22:52:45.009Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "dogs",
+            "purpose": "tagging",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2021-10-04T22:52:46.986Z",
+            "modified": "2021-10-04T22:52:48.388Z"
+        }
+    ],
+    "target": {
+        "source": "https://rct.resourcespace.com/iiif/image/799/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:249.71844482421875,492.0153503417969,2146.7439575195312,1106.3740539550781"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4d244c88-1d0b-4eec-b7cd-87716625e776.json"
+}
