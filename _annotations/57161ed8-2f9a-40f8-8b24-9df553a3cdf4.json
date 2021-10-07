@@ -1,0 +1,45 @@
+---
+canvas: "https://rct.resourcespace.com/iiif/2905882/canvas/2905906"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Balmoral Castle",
+            "purpose": "classifying",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2021-10-07T22:09:12.152Z",
+            "modified": "2021-10-07T22:09:38.931Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Balmoral Castle",
+            "purpose": "tagging",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2021-10-07T22:09:24.762Z",
+            "modified": "2021-10-07T22:09:30.994Z"
+        }
+    ],
+    "target": {
+        "source": "https://rct.resourcespace.com/iiif/2905882/canvas/2905906",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:159.77545166015625,294.9649353027344,2176.5560913085938,841.0406799316406"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://rct.resourcespace.com/iiif/2905882/",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "57161ed8-2f9a-40f8-8b24-9df553a3cdf4.json"
+}
