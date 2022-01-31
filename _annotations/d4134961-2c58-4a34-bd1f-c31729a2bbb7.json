@@ -1,0 +1,34 @@
+---
+canvas: "https://iiif.bodleian.ox.ac.uk/iiif/canvas/861ad634-1d6a-4673-9096-8f2120ecf9f4.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "monkey",
+            "purpose": "commenting",
+            "creator": {
+                "id": "tgra",
+                "name": "_tanya_gray"
+            },
+            "created": "2022-01-31T14:37:05.035Z",
+            "modified": "2022-01-31T14:37:06.949Z"
+        }
+    ],
+    "target": {
+        "source": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/861ad634-1d6a-4673-9096-8f2120ecf9f4.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:508.1451416015625,640.1585083007812,806.3131103515625,769.3760375976562"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/ecf96804-a514-4adc-8779-2dbc4e4b2f1e.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "d4134961-2c58-4a34-bd1f-c31729a2bbb7.json"
+}
